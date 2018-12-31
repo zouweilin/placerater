@@ -1,6 +1,10 @@
 {
-    "python.linting.pylintEnabled": false,
-    "python.linting.enabled": false,
-    "python.linting.banditEnabled": true,
-    "python.pythonPath": "django_env\\Scripts\\python.exe"
+  "python.linting.pylintEnabled": false,
+  "python.linting.enabled": false,
+  "python.linting.banditEnabled": true,
+  "python.pythonPath": "django_env\\Scripts\\python.exe",
+  "html.format.enable": false,
+  "[html]": {
+    "editor.formatOnSave": false
+  }
 }
